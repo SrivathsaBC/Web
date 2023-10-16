@@ -1,0 +1,156 @@
+#nan{
+
+    /* border: 1px solid black; */
+    width: 400px;
+    height: 450px;
+    color: black;
+    padding-top: 40px;
+    background-color: whitesmoke;
+    box-shadow: 0px 0px 1px;
+   padding-top: 100px;
+}
+#nan:hover{
+  
+
+}
+#ee{
+    padding: 10px;
+}
+.guru{
+    padding-top: 20px;
+   border-radius: 20px;
+
+    
+}
+.gang{
+    padding-right: 20px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+    padding-bottom: 20px;
+
+    
+   
+}
+.ram{
+    background-color: #00b3ff;
+    width: 200px;
+    border-radius: 10px;
+    
+}
+hr{
+    margin-left: 20px;
+    break-after: 10px;
+  line-break: 10px;
+  
+}
+.gana{
+    color: rgb(46, 46, 190);
+    display: flex;
+    align-items: center;
+    justify-content: baseline;
+    padding-left: 120px;
+    padding-top: 20px;
+}
+.raj
+{
+    padding-top: 20px;
+    padding-left: 20px;
+}    
+#nav{
+    padding: 10px
+}
+#tt{
+    /* border: 1px solid black; */
+    width: 400px;
+    height:8px;
+    color: black;
+    padding-top: 40px;
+    margin-top: 20px;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    padding-bottom: 50px;
+    box-shadow: 0px 0px 1px;
+    background-color: whitesmoke;
+    
+}
+
+.eee{
+    padding-top: 50px;
+    padding-right: 10px;
+    margin-top: 40px;
+}
+.rr{
+    padding: 10px;
+}
+.ttt{
+flex-direction: row;
+display: flex;
+align-items: baseline;
+justify-content: space-evenly;
+}
+.hhh{
+    vertical-align: baseline;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+    height: 40px;
+    width: 200px;
+    
+}
+
+.typ{
+    height: 40px;
+    width: 300px;
+    border-radius: 5px;
+    /* border-color: white; */
+    border-style: solid 
+}
+.raju{
+    padding-top: 5px;
+    padding-right: 190px;
+    
+}
+#ss{
+    height: 40px;
+    width: 300px;
+    background-color: rgb(0, 157, 255);
+    border-radius: 8px;
+    border-color:  rgb(0, 157, 255);
+    border-style: solid;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#lok{
+    background-color:white;
+}
+#nagu{
+    
+    background-color:white;
+}
+#hemu{
+     
+    background-color:whitesmoke;
+  
+}
+/* .low{
+    stroke-linejoin: miter;
+} */
+hr{
+    width: 90px;
+
+}
+#gg{
+display: flex;
+justify-items: center;
+padding-left:45px;
+padding-top: 20px;
+}
+#kk{
+    padding-left: 30px;
+    padding-right: 20px;
+}
+img{
+  margin-top: px;

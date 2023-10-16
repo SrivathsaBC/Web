@@ -1,0 +1,64 @@
+#ae{
+    height: 800px;
+    width: 1500px;
+    border: 5px solid;
+    border-color: rgba(6, 6, 6, 0.858);
+    background-image: url(../Images/N\ Background.jpg) ; 
+    
+}
+#ba{
+    color: red;
+}
+#pa{
+ color: aliceblue; 
+ margin: 10px;
+ margin-top: 250px;
+
+}
+#af{
+    align-items: flex-start;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.547);
+}
+h1{
+    font-size: 60px;
+    color: aliceblue;
+    
+}
+h3{
+    font-size: 30px;
+}
+input{
+    height: 50px;
+    width: 500px;
+}
+button{
+    color: aliceblue;
+    background-color: rgba(255, 0, 0, 0.822);
+    height: 60px;
+    width: 150px;
+    font-size: 20px;
+}
+#d2{
+background-color: black;
+}
+mob{
+    padding-left: 900px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: white;
+    font-size: 40px;
+}
+#d2{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+#mob{
+    padding-right: 200px;
+}
+#ap1{
+    font-size: 40px;
+    color: white;
+}

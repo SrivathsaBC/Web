@@ -1,0 +1,25 @@
+PSEUDO CLASS */
+a:link{
+    color: brown;
+}
+  a:visited{ 
+     color: blue;
+}
+ a:hover{
+     color: chartreuse;
+}
+a:active{
+ color: darkmagenta;
+}
+div{
+    width: 300px;
+    height: 500px;
+    border: 40px inset rgb(255, 251, 0);
+    border-top: 60px double blue;
+    padding: 10;
+    padding-right: 100px;
+    margin: 10px;
+    margin-top: 50px;
+    background-color:aqua ;
+    opacity:0.5;
+}
